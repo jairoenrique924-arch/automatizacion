@@ -1,0 +1,50 @@
+[
+  {
+    "id_estacion": "EST-001",
+    "ciudad": "Sincelejo",
+    "coordenadas": "9.3047, -75.3977",
+    "pm25": 12.5,
+    "temperatura_c": 32.1,
+    "estado": "Normal"
+  },
+  {
+    "id_estacion": "EST-002",
+    "ciudad": "Cartagena",
+    "coordenadas": "10.3997, -75.5144",
+    "pm25": 65.2,
+    "temperatura_c": 31.5,
+    "estado": "Crítico"
+  },
+  {
+    "id_estacion": "EST-003",
+    "ciudad": "Montería",
+    "coordenadas": "8.7479, -75.8814",
+    "pm25": 22.1,
+    "temperatura_c": 33.0,
+    "estado": "Moderado"
+  },
+  {
+    "id_estacion": "EST-004",
+    "ciudad": "Barranquilla",
+    "coordenadas": "10.9638, -74.7963",
+    "pm25": 78.4,
+    "temperatura_c": 30.2,
+    "estado": "Crítico"
+  },
+  {
+    "id_estacion": "EST-005",
+    "ciudad": "Bogotá",
+    "coordenadas": "4.7109, -74.0720",
+    "pm25": 58.0,
+    "temperatura_c": 18.5,
+    "estado": "Crítico"
+  },
+  {
+    "id_estacion": "EST-006",
+    "ciudad": "Medellín",
+    "coordenadas": "6.2442, -75.5812",
+    "pm25": 28.3,
+    "temperatura_c": 24.1,
+    "estado": "Moderado"
+  }
+]
