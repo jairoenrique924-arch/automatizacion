@@ -2,49 +2,401 @@
   {
     "id_estacion": "EST-001",
     "ciudad": "Sincelejo",
-    "coordenadas": "9.3047, -75.3977",
-    "pm25": 12.5,
-    "temperatura_c": 32.1,
-    "estado": "Normal"
+    "coordenadas": "7.3561, -72.136",
+    "pm25": 51.2,
+    "temperatura_c": 36.6,
+    "estado": "Crítico"
   },
   {
     "id_estacion": "EST-002",
-    "ciudad": "Cartagena",
-    "coordenadas": "10.3997, -75.5144",
-    "pm25": 65.2,
-    "temperatura_c": 31.5,
-    "estado": "Crítico"
-  },
-  {
-    "id_estacion": "EST-003",
-    "ciudad": "Montería",
-    "coordenadas": "8.7479, -75.8814",
-    "pm25": 22.1,
-    "temperatura_c": 33.0,
-    "estado": "Moderado"
-  },
-  {
-    "id_estacion": "EST-004",
-    "ciudad": "Barranquilla",
-    "coordenadas": "10.9638, -74.7963",
-    "pm25": 78.4,
-    "temperatura_c": 30.2,
-    "estado": "Crítico"
-  },
-  {
-    "id_estacion": "EST-005",
-    "ciudad": "Bogotá",
-    "coordenadas": "4.7109, -74.0720",
-    "pm25": 58.0,
+    "ciudad": "Corozal",
+    "coordenadas": "8.2306, -75.8947",
+    "pm25": 141.7,
     "temperatura_c": 18.5,
     "estado": "Crítico"
   },
   {
+    "id_estacion": "EST-003",
+    "ciudad": "Sampués",
+    "coordenadas": "7.5145, -75.8756",
+    "pm25": 109.6,
+    "temperatura_c": 31.6,
+    "estado": "Crítico"
+  },
+  {
+    "id_estacion": "EST-004",
+    "ciudad": "Tolú",
+    "coordenadas": "8.0526, -75.4383",
+    "pm25": 16.0,
+    "temperatura_c": 36.6,
+    "estado": "Normal"
+  },
+  {
+    "id_estacion": "EST-005",
+    "ciudad": "Coveñas",
+    "coordenadas": "8.9176, -75.1305",
+    "pm25": 17.5,
+    "temperatura_c": 27.6,
+    "estado": "Normal"
+  },
+  {
     "id_estacion": "EST-006",
+    "ciudad": "Cartagena",
+    "coordenadas": "10.4079, -75.1918",
+    "pm25": 9.1,
+    "temperatura_c": 30.4,
+    "estado": "Normal"
+  },
+  {
+    "id_estacion": "EST-007",
+    "ciudad": "Barranquilla",
+    "coordenadas": "10.4183, -72.1525",
+    "pm25": 8.6,
+    "temperatura_c": 24.4,
+    "estado": "Normal"
+  },
+  {
+    "id_estacion": "EST-008",
+    "ciudad": "Santa Marta",
+    "coordenadas": "10.9964, -73.6723",
+    "pm25": 149.2,
+    "temperatura_c": 23.6,
+    "estado": "Crítico"
+  },
+  {
+    "id_estacion": "EST-009",
+    "ciudad": "Montería",
+    "coordenadas": "6.0166, -74.0295",
+    "pm25": 84.4,
+    "temperatura_c": 33.6,
+    "estado": "Crítico"
+  },
+  {
+    "id_estacion": "EST-010",
+    "ciudad": "Valledupar",
+    "coordenadas": "6.7573, -72.9665",
+    "pm25": 23.3,
+    "temperatura_c": 25.9,
+    "estado": "Normal"
+  },
+  {
+    "id_estacion": "EST-011",
+    "ciudad": "Riohacha",
+    "coordenadas": "4.1073, -75.748",
+    "pm25": 34.7,
+    "temperatura_c": 20.8,
+    "estado": "Moderado"
+  },
+  {
+    "id_estacion": "EST-012",
+    "ciudad": "Bogotá",
+    "coordenadas": "5.8303, -74.3466",
+    "pm25": 5.1,
+    "temperatura_c": 37.2,
+    "estado": "Normal"
+  },
+  {
+    "id_estacion": "EST-013",
     "ciudad": "Medellín",
-    "coordenadas": "6.2442, -75.5812",
-    "pm25": 28.3,
-    "temperatura_c": 24.1,
+    "coordenadas": "6.256, -73.7613",
+    "pm25": 7.1,
+    "temperatura_c": 19.8,
+    "estado": "Normal"
+  },
+  {
+    "id_estacion": "EST-014",
+    "ciudad": "Cali",
+    "coordenadas": "4.2242, -72.0533",
+    "pm25": 16.5,
+    "temperatura_c": 21.6,
+    "estado": "Normal"
+  },
+  {
+    "id_estacion": "EST-015",
+    "ciudad": "Bucaramanga",
+    "coordenadas": "9.3318, -72.0337",
+    "pm25": 129.7,
+    "temperatura_c": 21.9,
+    "estado": "Crítico"
+  },
+  {
+    "id_estacion": "EST-016",
+    "ciudad": "Pereira",
+    "coordenadas": "4.5661, -72.5975",
+    "pm25": 107.0,
+    "temperatura_c": 30.6,
+    "estado": "Crítico"
+  },
+  {
+    "id_estacion": "EST-017",
+    "ciudad": "Manizales",
+    "coordenadas": "6.5203, -72.3423",
+    "pm25": 74.1,
+    "temperatura_c": 18.1,
+    "estado": "Crítico"
+  },
+  {
+    "id_estacion": "EST-018",
+    "ciudad": "Armenia",
+    "coordenadas": "6.2233, -72.3261",
+    "pm25": 49.3,
+    "temperatura_c": 20.8,
+    "estado": "Moderado"
+  },
+  {
+    "id_estacion": "EST-019",
+    "ciudad": "Ibagué",
+    "coordenadas": "5.9968, -75.6957",
+    "pm25": 98.5,
+    "temperatura_c": 29.9,
+    "estado": "Crítico"
+  },
+  {
+    "id_estacion": "EST-020",
+    "ciudad": "Neiva",
+    "coordenadas": "8.9963, -75.6023",
+    "pm25": 144.5,
+    "temperatura_c": 20.0,
+    "estado": "Crítico"
+  },
+  {
+    "id_estacion": "EST-021",
+    "ciudad": "Popayán",
+    "coordenadas": "9.1421, -72.4825",
+    "pm25": 11.2,
+    "temperatura_c": 23.5,
+    "estado": "Normal"
+  },
+  {
+    "id_estacion": "EST-022",
+    "ciudad": "Pasto",
+    "coordenadas": "10.4355, -74.2903",
+    "pm25": 5.3,
+    "temperatura_c": 36.2,
+    "estado": "Normal"
+  },
+  {
+    "id_estacion": "EST-023",
+    "ciudad": "Cúcuta",
+    "coordenadas": "8.6531, -73.3171",
+    "pm25": 17.4,
+    "temperatura_c": 35.0,
+    "estado": "Normal"
+  },
+  {
+    "id_estacion": "EST-024",
+    "ciudad": "Villavicencio",
+    "coordenadas": "4.7565, -73.5759",
+    "pm25": 27.1,
+    "temperatura_c": 31.2,
+    "estado": "Moderado"
+  },
+  {
+    "id_estacion": "EST-025",
+    "ciudad": "Tunja",
+    "coordenadas": "6.0223, -72.5683",
+    "pm25": 42.3,
+    "temperatura_c": 28.4,
+    "estado": "Moderado"
+  },
+  {
+    "id_estacion": "EST-026",
+    "ciudad": "Florencia",
+    "coordenadas": "4.6198, -73.8005",
+    "pm25": 47.5,
+    "temperatura_c": 34.0,
+    "estado": "Moderado"
+  },
+  {
+    "id_estacion": "EST-027",
+    "ciudad": "Quibdó",
+    "coordenadas": "7.8126, -72.4062",
+    "pm25": 89.8,
+    "temperatura_c": 34.1,
+    "estado": "Crítico"
+  },
+  {
+    "id_estacion": "EST-028",
+    "ciudad": "San Andrés",
+    "coordenadas": "4.2904, -74.8945",
+    "pm25": 44.9,
+    "temperatura_c": 20.8,
+    "estado": "Moderado"
+  },
+  {
+    "id_estacion": "EST-029",
+    "ciudad": "Leticia",
+    "coordenadas": "7.9015, -73.5083",
+    "pm25": 114.0,
+    "temperatura_c": 37.0,
+    "estado": "Crítico"
+  },
+  {
+    "id_estacion": "EST-030",
+    "ciudad": "Yopal",
+    "coordenadas": "8.6686, -75.8761",
+    "pm25": 7.5,
+    "temperatura_c": 26.0,
+    "estado": "Normal"
+  },
+  {
+    "id_estacion": "EST-031",
+    "ciudad": "Arauca",
+    "coordenadas": "4.4506, -72.3364",
+    "pm25": 15.1,
+    "temperatura_c": 32.3,
+    "estado": "Normal"
+  },
+  {
+    "id_estacion": "EST-032",
+    "ciudad": "Mocoa",
+    "coordenadas": "9.0195, -73.2741",
+    "pm25": 25.4,
+    "temperatura_c": 19.2,
+    "estado": "Moderado"
+  },
+  {
+    "id_estacion": "EST-033",
+    "ciudad": "Puerto Carreño",
+    "coordenadas": "6.9189, -74.9437",
+    "pm25": 8.2,
+    "temperatura_c": 18.4,
+    "estado": "Normal"
+  },
+  {
+    "id_estacion": "EST-034",
+    "ciudad": "Mitú",
+    "coordenadas": "10.2966, -72.6179",
+    "pm25": 19.4,
+    "temperatura_c": 24.5,
+    "estado": "Normal"
+  },
+  {
+    "id_estacion": "EST-035",
+    "ciudad": "Inírida",
+    "coordenadas": "7.253, -75.6954",
+    "pm25": 19.8,
+    "temperatura_c": 33.6,
+    "estado": "Normal"
+  },
+  {
+    "id_estacion": "EST-036",
+    "ciudad": "San José del Guaviare",
+    "coordenadas": "6.0627, -74.4232",
+    "pm25": 8.1,
+    "temperatura_c": 33.7,
+    "estado": "Normal"
+  },
+  {
+    "id_estacion": "EST-037",
+    "ciudad": "Sahagún",
+    "coordenadas": "8.0578, -75.1636",
+    "pm25": 11.5,
+    "temperatura_c": 34.3,
+    "estado": "Normal"
+  },
+  {
+    "id_estacion": "EST-038",
+    "ciudad": "Cereté",
+    "coordenadas": "6.2079, -75.085",
+    "pm25": 142.6,
+    "temperatura_c": 22.7,
+    "estado": "Crítico"
+  },
+  {
+    "id_estacion": "EST-039",
+    "ciudad": "Lorica",
+    "coordenadas": "4.1353, -74.0758",
+    "pm25": 6.3,
+    "temperatura_c": 27.7,
+    "estado": "Normal"
+  },
+  {
+    "id_estacion": "EST-040",
+    "ciudad": "Turbaco",
+    "coordenadas": "9.0889, -74.3854",
+    "pm25": 24.8,
+    "temperatura_c": 18.7,
+    "estado": "Normal"
+  },
+  {
+    "id_estacion": "EST-041",
+    "ciudad": "Magangué",
+    "coordenadas": "10.7901, -73.1018",
+    "pm25": 52.9,
+    "temperatura_c": 31.8,
+    "estado": "Crítico"
+  },
+  {
+    "id_estacion": "EST-042",
+    "ciudad": "El Carmen de Bolívar",
+    "coordenadas": "8.7097, -74.6595",
+    "pm25": 27.4,
+    "temperatura_c": 31.2,
+    "estado": "Moderado"
+  },
+  {
+    "id_estacion": "EST-043",
+    "ciudad": "Arjona",
+    "coordenadas": "8.8961, -74.8631",
+    "pm25": 22.2,
+    "temperatura_c": 37.1,
+    "estado": "Normal"
+  },
+  {
+    "id_estacion": "EST-044",
+    "ciudad": "Plato",
+    "coordenadas": "4.5007, -72.902",
+    "pm25": 19.2,
+    "temperatura_c": 30.5,
+    "estado": "Normal"
+  },
+  {
+    "id_estacion": "EST-045",
+    "ciudad": "Ciénaga",
+    "coordenadas": "9.7101, -72.5238",
+    "pm25": 17.6,
+    "temperatura_c": 29.0,
+    "estado": "Normal"
+  },
+  {
+    "id_estacion": "EST-046",
+    "ciudad": "Fundación",
+    "coordenadas": "7.5101, -72.7327",
+    "pm25": 26.6,
+    "temperatura_c": 29.3,
+    "estado": "Moderado"
+  },
+  {
+    "id_estacion": "EST-047",
+    "ciudad": "Maicao",
+    "coordenadas": "5.1181, -74.5632",
+    "pm25": 16.5,
+    "temperatura_c": 29.7,
+    "estado": "Normal"
+  },
+  {
+    "id_estacion": "EST-048",
+    "ciudad": "Uribia",
+    "coordenadas": "6.8512, -74.3977",
+    "pm25": 122.9,
+    "temperatura_c": 25.1,
+    "estado": "Crítico"
+  },
+  {
+    "id_estacion": "EST-049",
+    "ciudad": "Aguachica",
+    "coordenadas": "7.5475, -74.0465",
+    "pm25": 99.1,
+    "temperatura_c": 30.6,
+    "estado": "Crítico"
+  },
+  {
+    "id_estacion": "EST-050",
+    "ciudad": "San Marcos",
+    "coordenadas": "9.6551, -73.2693",
+    "pm25": 49.6,
+    "temperatura_c": 27.5,
     "estado": "Moderado"
   }
 ]
